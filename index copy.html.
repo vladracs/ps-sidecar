@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Self-Checkout</title>
+<style>
+    body {
+        width: 1000px;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1 style="font-family: Didot;text-align: center">Zara Self Checkout Terminal</h1>
+<img src="https://ent.box.com/shared/static/xlgzr4tdcz78f13haugxh6l4dzux3jpc.jpg" alt="Zara Self-Checkout" >
+</body>
+</html>
